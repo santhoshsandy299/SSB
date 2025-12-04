@@ -80,7 +80,8 @@ OUTPUT WAVEFORM
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/f6fee7dd-7fc8-486b-a255-86d3975b23bb" />
 
 TABULATION
-![WhatsApp Image 2025-09-25 at 15 26 55_8dd66d07](https://github.com/user-attachments/assets/aef910e4-cfc3-41ad-9837-6023cbff6260)
+![WhatsApp Image 2025-12-04 at 12 56 21_98e70f34](https://github.com/user-attachments/assets/5dfc32ad-8609-4a7d-b178-9f48dadcb823)
+
 
 
 
